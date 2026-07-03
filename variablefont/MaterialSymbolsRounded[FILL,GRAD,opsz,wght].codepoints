@@ -3309,6 +3309,7 @@ settings_phone e8c5
 settings_photo_camera f834
 settings_power e8c6
 settings_remote e8c7
+settings_screen ffedf
 settings_seating ef2d
 settings_slow_motion f623
 settings_suggest f05e
@@ -3447,6 +3448,7 @@ smoke_free eb4a
 smoking_rooms eb4b
 sms e625
 sms_failed e87f
+snail ffede
 snippet_folder f1c7
 snooze e046
 snowboarding e513
